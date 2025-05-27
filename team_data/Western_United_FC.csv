@@ -1,0 +1,29 @@
+Player,Position,DOB/Age,Nationality,Height,Foot,Joined,Signed from,Contract,Market value
+Matt Sutton,Goalkeeper,"Mar 7, 2000 (25)",Australia,"1,94m",right,"Jul 1, 2023",Melbourne City FC,"Jun 30, 2027",€300k
+Michael Vonja,Goalkeeper,"Jan 12, 2006 (19)",Australia,"1,89m",right,"Oct 24, 2023",Western United U21,"Jun 30, 2025",€25k
+Alex Nassiep,Goalkeeper,"May 17, 2006 (18)",Australia,"1,94m",,"Jan 22, 2025",Brisbane Roar U21,"Jun 30, 2028",-
+James Donachie,Centre-Back,"May 14, 1993 (31)",Australia,"1,95m",right,"Jul 4, 2023",Sydney FC,"Jun 30, 2025",€250k
+Tomoki Imai,Centre-Back,"Nov 29, 1990 (34)",Japan,"1,78m",right,"Feb 11, 2020",Matsumoto Yamaga,"Jun 30, 2026",€250k
+Dylan Leonard,Centre-Back,"Aug 30, 2007 (17)","Australia, Scotland","1,87m",right,"Jun 7, 2024",Western United U21,"Jun 30, 2026",€250k
+Kane Vidmar,Centre-Back,"Jun 4, 2004 (20)","Australia, Wales","1,85m",right,"Jul 6, 2023",Adelaide United U21,"Jun 30, 2025",€200k
+Besian Kutleshi,Centre-Back,"Feb 28, 2009 (16)",Australia,"1,85m",right,"Aug 2, 2024",Melbourne City FC U21,"Jun 30, 2027",-
+Luka Coveny,Centre-Back,"Mar 11, 2006 (19)",New Zealand,"1,89m",right,"Jun 7, 2024",Western United U21,"Jun 30, 2026",-
+Ben Garuccio,Left-Back,"Jun 15, 1995 (29)","Australia, Italy","1,74m",left,"Jul 18, 2021",Melbourne City FC,"Jun 30, 2025",€400k
+Tate Russell,Right-Back,"Aug 24, 1999 (25)",Australia,"1,80m",right,"Jul 1, 2024",Western Sydney Wanderers,"Jun 30, 2026",€350k
+Charbel Shamoon,Right-Back,"Feb 10, 2004 (21)","Iraq, Australia","1,78m",right,"Jul 1, 2024",Western United U21,"Jun 30, 2025",€200k
+Rhys Bozinovski,Defensive Midfield,"Jul 3, 2004 (20)","Australia, Malta","1,73m",right,"Aug 5, 2021",Western United U21,"Jun 30, 2027",€275k
+Angus Thurgate,Central Midfield,"Feb 8, 2000 (25)",Australia,"1,78m",right,"Jul 1, 2023",Newcastle United Jets,"Jun 30, 2026",€550k
+Sebastian Pasquali,Central Midfield,"Nov 7, 1999 (25)","Australia, Italy","1,76m",right,"Jul 1, 2019",Ajax Amsterdam U21,"Jun 30, 2026",€250k
+Jordan Lauton,Central Midfield,"Apr 1, 2003 (22)",Australia,"1,80m",right,"Jul 23, 2024",Western United U21,"Jun 30, 2027",€100k
+James York,Central Midfield,"Apr 9, 2005 (20)","Australia, Scotland","1,82m",right,"Jul 23, 2024",Western United U21,"Jun 30, 2026",€25k
+Khoder Kaddour,Right Midfield,"Sep 6, 2003 (21)",Australia,"1,81m",right,"Jun 3, 2024",Western United U21,"Jun 30, 2026",€50k
+Ramy Najjarine,Left Winger,"Apr 23, 2000 (25)","Australia, Lebanon","1,76m",left,"Feb 7, 2023",Western Sydney Wanderers,"Jun 30, 2025",€300k
+Matthew Grimaldi,Left Winger,"Nov 28, 2003 (21)",Australia,"1,80m",right,"Aug 28, 2023",Western United U21,"Jun 30, 2027",€250k
+Abel Walatee,Left Winger,"Feb 22, 2004 (21)","Australia, Ghana","1,77m",left,"Jul 1, 2024",Western United U21,"Jun 30, 2026",€200k
+Riku Danzaki,Right Winger,"May 31, 2000 (24)",Japan,"1,74m",right,"Jul 24, 2023",Motherwell FC,"Jun 30, 2025",€325k
+Noah Botic,Centre-Forward,"Jan 11, 2002 (23)","Australia, Croatia","1,83m",right,"Aug 2, 2021",TSG 1899 Hoffenheim U19,"Jun 30, 2025",€400k
+Hiroshi Ibusuki,Centre-Forward,"Feb 27, 1991 (34)",Japan,"1,96m",right,"Jul 1, 2024",Adelaide United,"Jun 30, 2026",€225k
+Michael Ruhs,Centre-Forward,"Aug 27, 2002 (22)",Australia,"1,80m",right,"Feb 7, 2023",Central Coast Mariners,"Jun 30, 2025",€150k
+Oli Lavale,Centre-Forward,"Apr 5, 2005 (20)",Australia,"1,80m",right,"Oct 17, 2023",Western United U21,"Jun 30, 2026",€100k
+Jake Najdovski,Centre-Forward,"Mar 14, 2005 (20)",Australia,"1,76m",right,"Jul 5, 2022",Western United U21,"Jun 30, 2026",€50k
+Luke Vickery,Centre-Forward,"Oct 25, 2005 (19)",Australia,"1,83m",right,"Jun 3, 2024",Western United U21,"Jun 30, 2026",€25k

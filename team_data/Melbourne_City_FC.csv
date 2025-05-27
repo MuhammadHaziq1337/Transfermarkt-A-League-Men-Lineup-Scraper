@@ -1,0 +1,33 @@
+Player,Position,DOB/Age,Nationality,Height,Foot,Joined,Signed from,Contract,Market value
+Patrick Beach,Goalkeeper,"Aug 6, 2003 (21)",Australia,"1,90m",left,"Jul 1, 2023",Central Coast Mariners II,"Jun 30, 2026",€300k
+James Nieuwenhuizen,Goalkeeper,"Jan 17, 2004 (21)",Australia,"1,92m",right,"Jul 1, 2021",Melbourne City FC U21,"Jun 30, 2027",€25k
+Dakota Ochsenham,Goalkeeper,"Sep 28, 1999 (25)",Australia,"1,92m",right,"Apr 17, 2025",FK Beograd,"Dec 31, 2025",-
+Lachie Charles,Goalkeeper,"Apr 24, 2007 (18)",Australia,"1,83m",right,"Oct 30, 2024",Melbourne City FC U21,"Jun 30, 2027",-
+Kai Trewin,Centre-Back,"May 18, 2001 (23)",Australia,"1,83m",right,"Jul 1, 2024",Brisbane Roar,"Jun 30, 2027",€600k
+Germán Ferreyra,Centre-Back,"Jan 13, 1996 (29)",Argentina,"1,83m",right,"Jul 17, 2024",Enisey Krasnoyarsk,"Jun 30, 2026",€300k
+Samuel Souprayen,Centre-Back,"Feb 18, 1989 (36)","France, Réunion","1,87m",left,"Jul 10, 2023",Botev Plovdiv,"Jun 30, 2025",€100k
+Jayden Necovski,Centre-Back,"Mar 28, 2008 (17)",Australia,"1,95m",right,"Apr 24, 2024",Melbourne City FC U21,"Jun 30, 2027",-
+Aziz Behich,Left-Back,"Dec 16, 1990 (34)","Australia, Türkiye","1,70m",left,"Aug 6, 2023",Dundee United FC,"Jun 30, 2027",€350k
+Harry Politidis,Left-Back,"Jun 28, 2002 (22)",Australia,"1,76m",left,"Sep 25, 2023",Melbourne City FC U21,"Jun 30, 2025",€250k
+Nathaniel Atkinson,Right-Back,"Jun 13, 1999 (25)",Australia,"1,81m",right,"Sep 16, 2024",Heart of Midlothian FC,"Jun 30, 2027",€700k
+Callum Talbot,Right-Back,"Feb 26, 2001 (24)","Australia, Malta","1,75m",right,"Jul 1, 2022",Sydney FC,"Jun 30, 2025",€350k
+Harrison Shillington,Right-Back,"Jun 30, 2005 (19)",Australia,"1,76m",right,"Jul 26, 2024",Melbourne City FC U21,"Jun 30, 2025",-
+Peter Antoniou,Right-Back,"Jan 29, 2007 (18)",Australia,"1,83m",right,"Aug 1, 2024",Melbourne City FC U21,"Jun 30, 2027",-
+Steven Ugarkovic,Defensive Midfield,"Aug 19, 1994 (30)","Australia, Croatia","1,79m",right,"Jul 1, 2023",Wellington Phoenix,"Jun 30, 2025",€500k
+James Jeggo,Defensive Midfield,"Feb 12, 1992 (33)","Australia, England","1,78m",right,"Jan 30, 2024",Hibernian FC,"Jun 30, 2026",€400k
+Andreas Kuen,Central Midfield,"Mar 24, 1995 (30)",Austria,"1,75m",left,"Aug 22, 2024",Atromitos Athens,"Jun 30, 2026",€500k
+Zane Schreiber,Central Midfield,"May 31, 2005 (19)",Australia,"1,76m",left,"Jul 1, 2023",Sydney FC II,"Jun 30, 2027",€200k
+Benjamin Dunbar,Central Midfield,"Jan 28, 2006 (19)",Australia,"1,68m",right,,-,"Jun 30, 2025",€50k
+Emin Durakovic,Left Midfield,"Jul 28, 2005 (19)",Australia,"1,80m",left,"Jul 2, 2022",Melbourne City FC U21,"Jun 30, 2026",€50k
+Alessandro Lopane,Attacking Midfield,"Apr 9, 2004 (21)",Australia,"1,70m",right,"Jul 1, 2023",Western Sydney Wanderers,"Jun 30, 2025",€275k
+Lawrence Wong,Attacking Midfield,"Oct 6, 2007 (17)",Australia,"1,80m",left,"Jul 31, 2024",Melbourne City FC U21,"Jun 30, 2027",€50k
+Yonatan Cohen,Left Winger,"Jun 29, 1996 (28)","Israel, Poland","1,86m",left,"Sep 16, 2024",Maccabi Tel Aviv,"Jun 30, 2025",€500k
+Mathew Leckie,Left Winger,"Feb 4, 1991 (34)",Australia,"1,81m",right,"Jul 1, 2021",Hertha BSC,"Jun 30, 2026",€450k
+Kavian Rahmani,Left Winger,"Dec 29, 2006 (18)",Australia,"1,78m",right,"Oct 23, 2024",Melbourne City FC U21,"Jun 30, 2027",€75k
+Mikey Ghossaini,Left Winger,"Aug 25, 2007 (17)","Australia, Lebanon","1,70m",left,,-,"Jun 30, 2027",€50k
+Marco Tilio,Right Winger,"Aug 23, 2001 (23)",Australia,"1,70m",left,"Feb 1, 2024",Celtic FC,"Jun 30, 2025",€800k
+Andrew Nabbout,Right Winger,"Dec 17, 1992 (32)","Australia, Lebanon","1,75m",right,"Sep 24, 2020",Melbourne Victory,"Jun 30, 2026",€500k
+Benjamin Mazzeo,Right Winger,"Jul 12, 2005 (19)",Australia,"1,74m",right,"Jan 16, 2024",Melbourne City FC U21,"Jun 30, 2026",€150k
+Max Caputo,Centre-Forward,"Aug 17, 2005 (19)",Australia,"1,78m",right,"Jul 1, 2021",Melbourne City FC U21,"Jun 30, 2026",€225k
+Medin Memeti,Centre-Forward,"Jun 20, 2007 (17)",Australia,"1,78m",right,"Jul 16, 2024",Melbourne City FC U21,"Jun 30, 2027",€150k
+Arion Sulemani,Centre-Forward,"Mar 1, 2005 (20)",Australia,"1,75m",right,"Jul 2, 2022",Melbourne City FC U21,"Jun 30, 2026",€125k

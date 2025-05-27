@@ -1,0 +1,30 @@
+Player,Position,DOB/Age,Nationality,Height,Foot,Joined,Signed from,Contract,Market value
+Oliver Sail,Goalkeeper,"Jan 13, 1996 (29)","New Zealand, Australia","1,97m",right,"Jul 1, 2023",Wellington Phoenix,"Jun 30, 2026",€350k
+Cameron Cook,Goalkeeper,"Aug 16, 2001 (23)",Australia,"1,88m",right,"Sep 1, 2021",Perth Glory U21,"Jun 30, 2026",€350k
+Tass Mourdoukoutas,Centre-Back,"Mar 3, 1999 (26)","Australia, Greece","1,88m",,"Jan 24, 2025",Valour FC,"Jun 30, 2025",€200k
+Tomislav Mrcela,Centre-Back,"Oct 1, 1990 (34)","Australia, Croatia","1,95m",right,"Dec 6, 2024",Without Club,"Jun 30, 2025",€200k
+Lachlan Barr,Centre-Back,"Sep 24, 1994 (30)","Australia, England","1,89m",right,"Jul 5, 2024",Adelaide United,"Jun 30, 2025",€150k
+Yuto Misao,Centre-Back,"Apr 16, 1991 (34)",Japan,"1,75m",left,"Jan 16, 2025",Kyoto Sanga,"Jun 30, 2025",€125k
+Andriano Lebib,Centre-Back,"Jan 29, 2006 (19)",Australia,"1,82m",right,"Jun 4, 2024",Perth Glory U21,"Jun 30, 2027",€100k
+Kaelan Majekodunmi,Centre-Back,"Feb 21, 2004 (21)","Australia, England","1,88m",right,"Feb 1, 2023",Perth Glory U21,"Jun 30, 2026",€100k
+Riley Warland,Left-Back,"Jul 4, 2002 (22)","Australia, England","1,84m",left,"Sep 12, 2023",Perth RedStar FC,"Jun 30, 2025",€200k
+Anas Hamzaoui,Left-Back,"Jul 14, 1996 (28)","Belgium, Morocco","1,75m",left,"Jul 1, 2024",Without Club,"Jun 30, 2026",€150k
+Zach Lisolajski,Left-Back,"Oct 5, 2005 (19)",Australia,"1,88m",left,"Jul 1, 2024",Western United U21,"Jun 30, 2026",€125k
+Josh Risdon,Right-Back,"Jul 27, 1992 (32)",Australia,"1,76m",right,"Jul 1, 2024",Western United FC,"Jun 30, 2026",€350k
+Takuya Okamoto,Right-Back,"Jun 18, 1992 (32)",Japan,"1,75m",right,"Jan 16, 2025",Shonan Bellmare,"Jun 30, 2025",€225k
+Taras Gomulka,Defensive Midfield,"Sep 16, 2001 (23)","Australia, Ukraine","1,83m",right,"Jul 1, 2024",Brisbane Roar,"Jun 30, 2026",€350k
+Brandon O'Neill,Defensive Midfield,"Apr 12, 1994 (31)",Australia,"1,79m",right,"Jul 1, 2024",Newcastle United Jets,"Jun 30, 2026",€300k
+Nicholas Pennington,Central Midfield,"Dec 18, 1998 (26)","Australia, Italy","1,82m",right,"Jul 1, 2024",Wellington Phoenix,"Jun 30, 2026",€350k
+Luke Amos,Central Midfield,"Feb 23, 1997 (28)","England, Nigeria","1,79m",right,"Feb 14, 2025",Without Club,"Jun 30, 2025",€250k
+Hiroaki Aoyama,Central Midfield,"Oct 14, 1996 (28)",Japan,"1,69m",left,"Jul 17, 2024",Marconi Stallions FC,"Jun 30, 2025",€100k
+William Freney,Central Midfield,"Nov 4, 2005 (19)",Australia,"1,78m",left,"Jul 1, 2024",Perth Glory U21,"Jun 30, 2026",-
+Adam Bugarija,Attacking Midfield,"Feb 22, 2005 (20)","Australia, Spain","1,78m",right,"Jul 1, 2024",Western Sydney Wanderers II,"Jun 30, 2027",€150k
+Jaylan Pearman,Attacking Midfield,"Apr 18, 2006 (19)",Australia,"1,75m",right,"Jul 10, 2023",Perth Glory U21,"Jun 30, 2025",€50k
+Khoa Ngo,Left Winger,"Jun 30, 2006 (18)",Australia,"1,65m",left,"Jun 4, 2024",Perth Glory U21,"Jun 30, 2026",€150k
+Lachlan Wales,Right Winger,"Oct 19, 1997 (27)",Australia,"1,79m",right,"Jan 16, 2025",Gyeongnam FC,"Jun 30, 2025",€450k
+Nikola Mileusnic,Right Winger,"Jul 17, 1993 (31)","Australia, Serbia","1,80m",both,"Jul 17, 2024",Brisbane Roar,"Jun 30, 2025",€300k
+Trent Ostler,Right Winger,"Apr 3, 2002 (23)",Australia,"1,84m",right,"Jul 1, 2019",Perth Glory U21,"Jun 30, 2025",€200k
+Adam Taggart,Centre-Forward,"Jun 2, 1993 (31)",Australia,"1,77m",right,"Jan 1, 2023",Cerezo Osaka,"Jun 30, 2026",€650k
+Patrick Wood,Centre-Forward,"Sep 16, 2002 (22)",Australia,"1,80m",right,"Jan 17, 2025",Sydney FC,"Jun 30, 2025",€300k
+Nathanael Blair,Centre-Forward,"Mar 15, 2004 (21)",Australia,"1,8m",right,"Jul 1, 2024",Western Sydney Wanderers,"Jun 30, 2026",€125k
+David Williams,Centre-Forward,"Feb 26, 1988 (37)","Australia, England","1,77m",both,"Aug 25, 2022",ATK Mohun Bagan FC,"Jun 30, 2025",€100k
